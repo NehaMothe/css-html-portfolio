@@ -69,9 +69,8 @@ h2 {
   padding: 25px 0;
 }
 .divider > section:last-of-type {
-  border: none;
+  border-bottom: none;
 }
-
 
 /* Profile
 ------------------------------------*/
@@ -96,7 +95,7 @@ header {
   padding: 8px;
   border-radius: 4px;
   display: inline-block;
- 
+
 }
 .projects .btn:hover {
   background: rgba(47,48,97,80%);
